@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Brown",
+    "corporateCode": "crp137",
+    "email": "brown@yopmail.com",
+    "password": "Brown@12345"
+  },
+  {
+    "label": "Manu",
+    "corporateCode": "CRP137",
+    "email": "manu@yopmail.com",
+    "password": "Gewan@12345"
+  }
+]
