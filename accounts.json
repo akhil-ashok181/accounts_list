@@ -16,5 +16,11 @@
     "corporateCode": "CRP137",
     "email": "anoop1@yopmail.com",
     "password": "Gewan@12345"
+  },
+  {
+    "label": "Akhil",
+    "corporateCode": "CRP137",
+    "email": "akhil.a@yopmail.com",
+    "password": "Gewan@12345"
   }
 ]
